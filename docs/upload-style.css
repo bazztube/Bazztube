@@ -4,7 +4,7 @@
 }
 body {
 	font-family: 'Baloo 2', cursive;
-	color: #000000
+	color: #fff
 }
 .banner-text {
 	width: 100%;
@@ -19,7 +19,7 @@ body {
 	display: inline-block;
 	padding: 40px 15px;
 	text-transform: uppercase;
-	color: #000000;
+	color: #fff;
 	font-size: 20px;
 }
 
