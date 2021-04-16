@@ -2,4 +2,4 @@
 
 -website [here](https://bazztube.github.io/Bazztube/)
 
-![banner](https://github.com/bazztube/Bazztube/docs/blob/main/Banner.png?)
+![banner](https://raw.githubusercontent.com/bazztube/Bazztube/main/docs/Banner.png)
